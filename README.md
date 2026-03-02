@@ -1,7 +1,3 @@
-Oto finalna, profesjonalna treść do Twojego pliku `README.md`. Skupiłem się na konkretach technicznych, które pokazują, że projekt to przemyślany system, a nie tylko luźne skrypty.
-
----
-
 # NASA Battery Intelligence System
 
 ## Overview
@@ -50,7 +46,15 @@ To mitigate the "black-box" nature of ML, the **Fuzzy Logic** layer interprets r
 * **MATLAB** (R2021b or newer)
 * **Statistics and Machine Learning Toolbox**
 * **Fuzzy Logic Toolbox**
+  
+## Screenshots
 
+#### Example Workflow
+![Obraz1](screenshots/Obraz1.png)
+
+![Obraz2](screenshots/Obraz2.png)
+
+![Obraz3](screenshots/Obraz3.png)
 ### Running the Project:
 
 1. Clone the repository:
